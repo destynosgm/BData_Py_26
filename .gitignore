@@ -1,0 +1,7 @@
+﻿# Datos locales grandes o personales (no versionar)
+data/
+.spyproject/
+__pycache__/
+*.pyc
+*.zip
+*.pdf
